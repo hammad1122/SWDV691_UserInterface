@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site/" />
+  <setParameter name="Capstone_dbConnectionString-Web.config Connection String" value="Data Source=DESKTOP-U3M0AS7;Initial Catalog=Capstone_db;Integrated Security=True" />
+  <setParameter name="Capstone_dbConnectionString2-Web.config Connection String" value="Data Source=DESKTOP-U3M0AS7;Initial Catalog=Capstone_db;Persist Security Info=True;User ID=test;Password=test" />
+  <setParameter name="CapstoneDb-Web.config Connection String" value="Data Source=DESKTOP-U3M0AS7;User ID=test;Password=test;Initial Catalog=Capstone_db" />
+  <setParameter name="Capstone_dbConnectionString3-Web.config Connection String" value="Data Source=DESKTOP-U3M0AS7;Initial Catalog=Capstone_db;User ID=test;Password=test" />
+</parameters>
